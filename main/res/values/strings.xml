@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckListTrial</string>
+    <string name="submit_selection_label">Submit Selection</string>
+    <string name="selection_label">Select From Below:</string>
+    <string name="select_all_label">Select All</string>
+    <string name="select_none_label">Select None</string>
+</resources>
