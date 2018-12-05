@@ -156,6 +156,7 @@ public class MainActivity extends Activity implements AdapterView.OnItemSelected
         if(selectedOption.equals(options[0])) setCheckOptions(numbersOptions);
         else if(selectedOption.equals(options[1])) setCheckOptions(burgerOptions);
         else setCheckOptions(abstractOptions);
+        checkSubmitCondition();
     }
 
 
